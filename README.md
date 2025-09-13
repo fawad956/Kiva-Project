@@ -165,7 +165,7 @@ This project is for educational purposes. Please refer to Kiva's terms of servic
 
 ## Author
 
-**Fawad Khan** (Student ID: 11492033)  
+**Fawad Khan**  
 BCIS 5110 - Data Analytics Project
 
 ---
